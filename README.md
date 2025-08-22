@@ -90,4 +90,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharanikumar55&show_icons=true&locale=en&v=1" alt="bharanikumar55" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharanikumar55&v=1" alt="bharanikumar55" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharanikumar55&theme=default&v=1" alt="bharanikumar55" /></p>
