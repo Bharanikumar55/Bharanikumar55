@@ -86,9 +86,9 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharanikumar55&show_icons=true&locale=en&layout=compact&v=1" alt="bharanikumar55" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharanikumar55&show_icons=true&locale=en&layout=compact&v=3" alt="bharanikumar55" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharanikumar55&show_icons=true&locale=en&v=1" alt="bharanikumar55" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharanikumar55&show_icons=true&locale=en&v=3" alt="bharanikumar55" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=bharanikumar55&theme=default&v=2" alt="bharanikumar55" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=bharanikumar55&theme=default&v=3" alt="bharanikumar55" /></p>
 
