@@ -1,94 +1,68 @@
-<h1 align="center">Hi 👋, I'm Bharani Kumar Madisetty</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI0ejBkOXB2Z3NvODV2eGR4OTF0NXFldTUzcWZydG9jcXV5MTdncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k81NasbqkKA5HSyJxN/giphy.gif" width="80%" alt="pixel-world-banner"/>
+  
+  <h1>
+    🕹 Bharani Kumar 🕹
+  </h1>
+  
+  <p>
+    <em>
+      AI/ML Developer
+    </em>
+  </p>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3JnNDd0Ymo0a2Z6emRucmoxbnplbzY3MmxuMzl3YWNjcXY3ZHV0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H7gdwW1UOWyRlVYpwt/giphy.gif" width="100" alt="pixel-hero"/>
+  </div>
+  
+  ---
+  
+  ## 📜 Player Log
+  
+  🌱 I’m currently learning Deep Learning<br/>👯 I’m looking to collaborate on AI ML Projects<br/>🤝 I’m looking for help with AI and ML<br/>💬 Ask me about Linear Algebra, Calculus, Supervised, Unsupervised Learning and ML related stuff
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bharanikumar55&label=Profile%20views&color=0e75b6&style=flat" alt="bharanikumar55" /> 
-</p>
+  ---
+  
+  ## 🎒 Inventory
+  <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-2E2E3A?style=for-the-badge&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/Python-1B1464?style=for-the-badge&logo=python&logoColor=000000"/> <img src="https://img.shields.io/badge/TypeScript-6A0572?style=for-the-badge&logo=typescript&logoColor=000000"/> <img src="https://img.shields.io/badge/Java-FF006E?style=for-the-badge&logo=java&logoColor=000000"/> <img src="https://img.shields.io/badge/C-00F5D4?style=for-the-badge&logo=c&logoColor=000000"/> <img src="https://img.shields.io/badge/React-FEE440?style=for-the-badge&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/CSS3-FB5607?style=for-the-badge&logo=css3&logoColor=000000"/> <img src="https://img.shields.io/badge/HTML5-8338EC?style=for-the-badge&logo=html5&logoColor=000000"/> <img src="https://img.shields.io/badge/Sass-3A86FF?style=for-the-badge&logo=sass&logoColor=000000"/> <img src="https://img.shields.io/badge/Bootstrap-2E2E3A?style=for-the-badge&logo=bootstrap&logoColor=000000"/> <img src="https://img.shields.io/badge/Node.js-1B1464?style=for-the-badge&logo=nodedotjs&logoColor=000000"/> <img src="https://img.shields.io/badge/Flutter-6A0572?style=for-the-badge&logo=flutter&logoColor=000000"/> <img src="https://img.shields.io/badge/TensorFlow-FF006E?style=for-the-badge&logo=tensorflow&logoColor=000000"/> <img src="https://img.shields.io/badge/PyTorch-00F5D4?style=for-the-badge&logo=pytorch&logoColor=000000"/> <img src="https://img.shields.io/badge/Pandas-FEE440?style=for-the-badge&logo=pandas&logoColor=000000"/> <img src="https://img.shields.io/badge/Seaborn-FB5607?style=for-the-badge&logo=seaborn&logoColor=000000"/> <img src="https://img.shields.io/badge/OpenCV-8338EC?style=for-the-badge&logo=opencv&logoColor=000000"/> <img src="https://img.shields.io/badge/Scikit-learn-3A86FF?style=for-the-badge&logo=scikitlearn&logoColor=000000"/> <img src="https://img.shields.io/badge/MongoDB-2E2E3A?style=for-the-badge&logo=mongodb&logoColor=000000"/> <img src="https://img.shields.io/badge/MySQL-1B1464?style=for-the-badge&logo=mysql&logoColor=000000"/> <img src="https://img.shields.io/badge/Bash-6A0572?style=for-the-badge&logo=gnubash&logoColor=000000"/> <img src="https://img.shields.io/badge/Flask-FF006E?style=for-the-badge&logo=flask&logoColor=000000"/> <img src="https://img.shields.io/badge/Linux-00F5D4?style=for-the-badge&logo=linux&logoColor=000000"/> <img src="https://img.shields.io/badge/Git-FEE440?style=for-the-badge&logo=git&logoColor=000000"/>
+  </p>
+  
+  ---
+  
+  ## 🏰 Guild Links
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bharanikumar55&v=1" alt="bharanikumar55" />
-  </a> 
-</p>
+  ---
+  
+  ## 🏆 High Score
+  
+  <img align="right" width="35%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI0ejBkOXB2Z3NvODV2eGR4OTF0NXFldTUzcWZydG9jcXV5MTdncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" alt="pixel-trophy"/>
+  
+<div align="left"> 
+  <a href="https://github.com/Bharanikumar55">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Bharanikumar55&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Bharanikumar55">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharanikumar55&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
+  </a>
+    </div>
+  
+  ---
+  
+<div align="center">
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p>
+<table>
+<tr>
+<td width="150">
+  <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="100" alt="pixel-fire-left"/>
+</td>
+<td align="center">
+  <h3>► THANKS FOR PLAYING ◄</h3>
+</td>
+<td width="150">
+  <img src="https://media.giphy.com/media/gx54W1mSpeYMg/giphy.gif" width="100" alt="pixel-fire-right"/>
+</td>
+</tr>
+</table>
 
-- 🌱 I’m currently learning *Deep Learning*  
-
-- 👯 I’m looking to collaborate on *AI ML Projects*  
-
-- 🤝 I’m looking for help with *AI and ML*  
-
-- 💬 Ask me about *Linear Algebra, Calculus, Supervised, Unsupervised Learning and ML related stuff*  
-
-- 📫 How to reach me *bharanikumar.cbit@gmail.com*  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharanikumar55&show_icons=true&locale=en&layout=compact&v=3" alt="bharanikumar55" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharanikumar55&show_icons=true&locale=en&v=3" alt="bharanikumar55" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com?user=bharanikumar55&theme=default&v=3" alt="bharanikumar55" /></p>
-
+</div>
