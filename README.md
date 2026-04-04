@@ -1,76 +1,68 @@
 <div align="center">
 
-<h1>🚀 Bharani Kumar</h1>
+<img src="https://media.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" width="80%" />
 
-<p>
-  <em>Backend Developer | AI/ML Enthusiast</em>
-</p>
+<h1>⚡ Bharani Kumar ⚡</h1>
+
+<p><em>Backend Developer | AI/ML Enthusiast</em></p>
+
+<img src="https://media.giphy.com/media/H7gdwW1UOWyRlVYpwt/giphy.gif" width="100"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧾 Player Profile
 
-- 🎓 B.Tech CSE (AI & ML), CBIT — CGPA: 9.11  
-- 💻 Interested in Backend Development & Machine Learning  
-- ⚡ Focused on building real-world, scalable applications  
-- 🌱 Currently learning: AWS & System Design  
-- 🎯 Goal: Combine Backend + AI to build intelligent systems  
-
----
-
-## 🚀 Projects
-
-### 🔹 SyncPad — Real-Time Collaborative Coding Platform
-- Built backend APIs using **FastAPI**
-- Implemented real-time collaboration features
-- Integrated AI-based resume analysis using **Hugging Face & Ollama**
+- 🎓 B.Tech CSE (AI & ML), CBIT  
+- 📊 CGPA: 9.11  
+- 💻 Focus: Backend Development + AI Systems  
+- ⚡ Building real-world applications using APIs & ML  
+- 🌱 Currently learning: AWS & scalable system design  
+- 🎯 Goal: Build intelligent, production-ready systems  
 
 ---
 
-### 🔹 AI Proctoring System
-- Developed low-bandwidth monitoring system
-- Used **OpenCV, DeepFace, MediaPipe**
-- Implemented audio anomaly detection using **MFCC**
+## 🎮 Skill Tree
+
+### ⚔️ Core Programming
+`Python` `Java` `JavaScript`
+
+### 🧠 AI / ML Arsenal
+`PyTorch` `TensorFlow` `Scikit-learn`  
+`Transformers` `RAG` `NLP`
+
+### ⚙️ Backend Engine
+`FastAPI` `Node.js` `Express.js`
+
+### 🗄️ Data & Storage
+`MongoDB` `MySQL`
+
+### 🛠 Tools & Environment
+`Git` `GitHub` `Linux` `Jupyter` `VS Code`
 
 ---
 
-### 🔹 Typhoon Risk Analysis (Ongoing)
-- Worked with **NOAA, ERA5 datasets**
-- Built ML pipeline for climate-based predictions
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming
-- Python, Java, JavaScript
-
-### ⚙️ Backend
-- FastAPI, Node.js, Express.js
-
-### 🤖 AI/ML
-- Scikit-learn, Pandas, NumPy  
-- TensorFlow, PyTorch  
-- Transformers, RAG, NLP  
-
-### 🗄 Databases
-- MongoDB, MySQL
-
-### 🔧 Tools
-- Git, GitHub, VS Code, Jupyter Notebook
-
----
-
-## 🏆 Achievements
+## 🏆 Achievements Unlocked
 
 - 🥈 Runner-Up — VJ Hackathon (2000+ participants)  
 - 🥉 3rd Place — IIIT Hyderabad Hackathon (4000+ participants)  
 
 ---
 
-## 🌍 Connect With Me
+## 📊 Stats & Progress
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Bharanikumar55&theme=tokyonight" />
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharanikumar55&theme=tokyonight&ring=ff3068&fire=ff3068&sideNums=ff3068" />
+
+</div>
+
+---
+
+## 🌍 Connect
 
 - 🔗 LinkedIn: https://linkedin.com/in/your-link  
 - 💻 GitHub: https://github.com/Bharanikumar55  
@@ -79,6 +71,6 @@
 
 <div align="center">
 
-✨ “Building systems that combine intelligence with real-world impact” ✨
+✨ *“Turning ideas into scalable systems with intelligence.”* ✨
 
 </div>
